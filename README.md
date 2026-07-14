@@ -1,7 +1,3 @@
-### 💡 “Making the web easier for everyone 🌎”
-
----
-
 ## Skills  
 
 ### Languages  
